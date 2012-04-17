@@ -115,6 +115,6 @@ tcga:cameFrom a rdf:Property;
 tcga:level a rdf:Property;
     rdfs:isDefinedBy <http://tcga.github.com/#>;
     rdfs:label "Level";
-    rdfs:comment "The Data Level of a tcga:file. ";
+    rdfs:comment "The Data Level of a tcga:File. ";
     rdfs:range rdfs:Literal;
     rdfs:domain tcga:File .
