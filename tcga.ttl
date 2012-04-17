@@ -118,3 +118,10 @@ tcga:level a rdf:Property;
     rdfs:comment "The Data Level of a tcga:File. ";
     rdfs:range rdfs:Literal;
     rdfs:domain tcga:File .
+
+tcga:previousVersion a rdf:Property;
+    rdfs:isDefinedBy <http://tcga.github.com/#>;
+    rdfs:label "Previous Version";
+    rdfs:comment "The previous version of a tcga:File";
+    rdfs:range tcga:File;
+    rdfs:domain tcga:File .
