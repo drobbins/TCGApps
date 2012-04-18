@@ -4,4 +4,9 @@
     "description" : "Scrapes the directory structure of the TCGA into an RDF graph",
     "url" : "https://raw.github.com/drobbins/TCGAScraper/master/tcgascraper.js"
   }
+  "http://dl.dropbox.com/u/4000409/Repos/TCGAScraper/tcgascraper.js" : {
+    "name" : "TCGA Scraper Beta",
+    "description" : "Developtment (bleeding edge) version. Scrapes the directory structure of the TCGA into an RDF graph.",
+    "url" : "http://dl.dropbox.com/u/4000409/Repos/TCGAScraper/tcgascraper.js"
+  }
 }
