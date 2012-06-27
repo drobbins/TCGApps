@@ -1,12 +1,7 @@
 manifest({
-  "https://raw.github.com/drobbins/TCGAScraper/master/tcgascraper.js" : {
-    "name" : "TCGA Scraper",
-    "description" : "Scrapes the directory structure of the TCGA into an RDF graph",
-    "url" : "https://raw.github.com/drobbins/TCGAScraper/master/tcgascraper.js"
-  },
-  "http://dl.dropbox.com/u/4000409/Repos/TCGAScraper/tcgascraper.js" : {
-    "name" : "TCGA Scraper Beta",
-    "description" : "Development Version. Scrapes the directory structure of the TCGA into an RDF graph.",
-    "url" : "http://dl.dropbox.com/u/4000409/Repos/TCGAScraper/tcgascraper.js"
+  "https://raw.github.com/drobbins/TCGA-Query/master/tcgascraper.js" : {
+    "name" : "TCGA Query",
+    "description" : "Query the structure of the TCGA",
+    "url" : "https://raw.github.com/drobbins/TCGA-Query/master/tcgascraper.js"
   }
 });
