@@ -1,7 +1,7 @@
 manifest({
-  "https://raw.github.com/drobbins/TCGA-Query/master/tcgaquery.js" : {
+  "https://raw.github.com/drobbins/TCGAQuery/master/tcgaquery.js" : {
     "name" : "TCGA Query",
     "description" : "Query the structure of the TCGA",
-    "url" : "https://raw.github.com/drobbins/TCGA-Query/master/tcgaquery.js"
+    "url" : "https://raw.github.com/drobbins/TCGAQuery/master/tcgaquery.js"
   }
 });
