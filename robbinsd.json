@@ -1,8 +1,8 @@
 manifest({
-  "https://raw.github.com/drobbins/TCGAQuery/master/tcgaquery.js" : {
+  "https://raw.github.com/drobbins/TCGA.query/master/tcgaquery.js" : {
     "name" : "TCGA Query",
     "description" : "SPARQL Interface for the TCGA Roadmap",
-    "url" : "https://raw.github.com/drobbins/TCGAQuery/master/tcgaquery.js"
+    "url" : "https://raw.github.com/drobbins/TCGA.query/master/tcgaquery.js"
   },
   "https://raw.github.com/drobbins/TCGA.ql/master/tcgaql.js" : {
     "name" : "TCGA Query Language",
